@@ -1,0 +1,10 @@
+int main()
+{
+  char s[] = "that's my dog";
+
+  /* comment */ 
+
+  char cs[] = 'that"s my cat';
+
+  return 0;
+}
