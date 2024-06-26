@@ -1,2 +1,15 @@
-hi ther _ewberybody_ #include "woah there" YEOW
+int main()
+{
+  // ignore this
 
+  /* other comment */
+
+  int x = 3;
+  int y = 4;
+  int z = 3 / 4;
+  integer
+
+  printf("x+y+himom=%d\n", x + y);
+
+  return 0;
+}
